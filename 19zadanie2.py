@@ -1,6 +1,6 @@
 def hod1(x, y):
     permit = False
-    if hod2(x + 3, y) == True and x + 3 + y < 820:
+    if hod2(x + 3, y) == True and x + 3 + y < 345720:
         permit = True
     if hod2(x * 2, y) == True and x * 2 + y < 80:
         permit = True
